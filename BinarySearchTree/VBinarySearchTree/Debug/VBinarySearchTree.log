@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\yessine\source\repos\vbinarysearchtree\vbinarysearchtree\main.cpp(283): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\yessine\source\repos\vbinarysearchtree\vbinarysearchtree\main.cpp(317): warning C4244: 'argument': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\yessine\source\repos\vbinarysearchtree\vbinarysearchtree\main.cpp(333): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\yessine\source\repos\vbinarysearchtree\vbinarysearchtree\main.cpp(334): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\yessine\source\repos\vbinarysearchtree\vbinarysearchtree\main.cpp(163): warning C4715: 'BinarySearchTree<int>::recSearchTree': not all control paths return a value
+c:\users\yessine\source\repos\vbinarysearchtree\vbinarysearchtree\main.cpp(193): warning C4715: 'BinarySearchTree<int>::getPositionRecX': not all control paths return a value
+c:\users\yessine\source\repos\vbinarysearchtree\vbinarysearchtree\main.cpp(215): warning C4715: 'BinarySearchTree<int>::getPositionRecY': not all control paths return a value
+c:\users\yessine\source\repos\vbinarysearchtree\vbinarysearchtree\main.cpp(239): warning C4715: 'BinarySearchTree<int>::getPrevValueRec': not all control paths return a value
+  VBinarySearchTree.vcxproj -> C:\Users\Yessine\source\repos\VBinarySearchTree\Debug\VBinarySearchTree.exe
