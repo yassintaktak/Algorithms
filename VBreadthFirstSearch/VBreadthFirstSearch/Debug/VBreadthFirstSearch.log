@@ -1,0 +1,44 @@
+﻿  main.cpp
+c:\users\yessine\source\repos\vbreadthfirstsearch\vbreadthfirstsearch\main.cpp(12): warning C4005: 'M_PI': macro redefinition
+  c:\sdl\include\sdl_stdinc.h(499): note: see previous definition of 'M_PI'
+c:\users\yessine\source\repos\vbreadthfirstsearch\vbreadthfirstsearch\main.cpp(165): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\yessine\source\repos\vbreadthfirstsearch\vbreadthfirstsearch\main.cpp(168): warning C4244: 'argument': conversion from 'float' to 'Uint8', possible loss of data
+c:\users\yessine\source\repos\vbreadthfirstsearch\vbreadthfirstsearch\main.cpp(171): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\yessine\source\repos\vbreadthfirstsearch\vbreadthfirstsearch\main.cpp(181): warning C4244: 'argument': conversion from 'float' to 'Uint8', possible loss of data
+c:\users\yessine\source\repos\vbreadthfirstsearch\vbreadthfirstsearch\main.cpp(183): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\yessine\source\repos\vbreadthfirstsearch\vbreadthfirstsearch\main.cpp(185): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\yessine\source\repos\vbreadthfirstsearch\vbreadthfirstsearch\main.cpp(186): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\yessine\source\repos\vbreadthfirstsearch\vbreadthfirstsearch\main.cpp(179): warning C4101: 'nx': unreferenced local variable
+c:\users\yessine\source\repos\vbreadthfirstsearch\vbreadthfirstsearch\main.cpp(203): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+c:\users\yessine\source\repos\vbreadthfirstsearch\vbreadthfirstsearch\main.cpp(203): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\yessine\source\repos\vbreadthfirstsearch\vbreadthfirstsearch\main.cpp(216): warning C4018: '<': signed/unsigned mismatch
+c:\users\yessine\source\repos\vbreadthfirstsearch\vbreadthfirstsearch\main.cpp(221): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\yessine\source\repos\vbreadthfirstsearch\vbreadthfirstsearch\main.cpp(246): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\yessine\source\repos\vbreadthfirstsearch\vbreadthfirstsearch\main.cpp(266): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\yessine\source\repos\vbreadthfirstsearch\vbreadthfirstsearch\main.cpp(275): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\yessine\source\repos\vbreadthfirstsearch\vbreadthfirstsearch\main.cpp(119): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  c:\users\yessine\source\repos\vbreadthfirstsearch\vbreadthfirstsearch\main.cpp(113): note: while compiling class template member function 'void Graph<int>::shuffleNodes(std::vector<Node<int>,std::allocator<_Ty>> &)'
+          with
+          [
+              _Ty=Node<int>
+          ]
+  c:\users\yessine\source\repos\vbreadthfirstsearch\vbreadthfirstsearch\main.cpp(307): note: see reference to function template instantiation 'void Graph<int>::shuffleNodes(std::vector<Node<int>,std::allocator<_Ty>> &)' being compiled
+          with
+          [
+              _Ty=Node<int>
+          ]
+  c:\users\yessine\source\repos\vbreadthfirstsearch\vbreadthfirstsearch\main.cpp(139): note: see reference to class template instantiation 'Graph<int>' being compiled
+c:\users\yessine\source\repos\vbreadthfirstsearch\vbreadthfirstsearch\main.cpp(121): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\yessine\source\repos\vbreadthfirstsearch\vbreadthfirstsearch\main.cpp(104): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  c:\users\yessine\source\repos\vbreadthfirstsearch\vbreadthfirstsearch\main.cpp(99): note: while compiling class template member function 'void Graph<int>::getNodes(std::vector<Node<int>,std::allocator<_Ty>> &)'
+          with
+          [
+              _Ty=Node<int>
+          ]
+  c:\users\yessine\source\repos\vbreadthfirstsearch\vbreadthfirstsearch\main.cpp(292): note: see reference to function template instantiation 'void Graph<int>::getNodes(std::vector<Node<int>,std::allocator<_Ty>> &)' being compiled
+          with
+          [
+              _Ty=Node<int>
+          ]
+c:\users\yessine\source\repos\vbreadthfirstsearch\vbreadthfirstsearch\main.cpp(106): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  VBreadthFirstSearch.vcxproj -> C:\Users\Yessine\source\repos\VBreadthFirstSearch\Debug\VBreadthFirstSearch.exe
